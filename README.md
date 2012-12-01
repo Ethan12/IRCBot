@@ -12,7 +12,7 @@ Seriously simple..
 Commands denoted with ! (can be changed..) .. Very easy to add / delete commands.
 
 Current Commands : 
-MD5, SHA1, SHA256, SHA512 and DuckDuckGo Searching.
+SAY, MD5, SHA1, SHA256, SHA512 and DuckDuckGo Searching.
 
 To run :  php bot.php
 
